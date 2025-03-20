@@ -3,7 +3,7 @@ Entregables para la entrega final.
 
 En el repositorio se encuentran los siguientes archivos:
 
-IntroduccionIA_EntregFinal_Notebook
+IntroduccionIA_EntregaFinal_Notebook
 
 (Este es un notebook de Jupyter con el código del proyecto, las instrucciones para ejecutarlo están al inicio de él)
 
